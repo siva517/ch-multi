@@ -33,7 +33,7 @@
         <configuration>
           
           <tagBase>
-           http://10.0.0.37:18080/svn/K202/tags
+           https://github.com/saikrishnama/ch-multi/tags
           </tagBase>
           
         </configuration>
@@ -80,7 +80,7 @@
  
   
   <scm>
-    <developerConnection>scm:svn:http://10.0.0.37:18080/svn/K202/trunk </developerConnection>
+    <developerConnection>scm:git:https://github.com/saikrishnama/ch-multi/tags </developerConnection>
   </scm>
   
   
