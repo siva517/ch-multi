@@ -8,7 +8,7 @@
   <artifactId>parent</artifactId>
   <version>11.98-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>Multi Chapter Parent Project</name>
+  <name>Multi Chapter Parent  Project</name>
   <modules>
     <module>simple-parent</module>
   </modules>
