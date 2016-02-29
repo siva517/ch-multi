@@ -33,7 +33,7 @@
         <configuration>
           
           <tagBase>
-           https://github.com/saikrishnama/ch-multi/tags
+           https://github.com/siva517/ch-multi/tags
           </tagBase>
           
         </configuration>
@@ -80,7 +80,7 @@
  
   
   <scm>
-    <developerConnection>scm:git:https://github.com/saikrishnama/ch-multi </developerConnection>
+    <developerConnection>scm:git:https://github.com/siva517/ch-multi </developerConnection>
   </scm>
   
   
