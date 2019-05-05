@@ -1,3 +1,4 @@
 adding text file
 testing stage
 testing diff
+add info
